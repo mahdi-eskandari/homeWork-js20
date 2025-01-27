@@ -1,0 +1,32 @@
+.style_card {
+    width: 230px;
+    height: 250px;
+    background-color: rgb(185, 191, 194);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 3px solid rgb(70, 70, 70);
+    border-radius: 20px;
+}
+
+
+#container {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+.para_name {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.para_company_name {
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
